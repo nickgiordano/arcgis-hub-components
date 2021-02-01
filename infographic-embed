@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -57,4 +57,4 @@ html, body, #layoutNode { padding: 0px; margin: 0px; height: 100%; overflow: hid
 <body class="claro" style="margin:0px;">
 <div id="playerNode"></div>
 </body>
-</html> -->
+</html>
